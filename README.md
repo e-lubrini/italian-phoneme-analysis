@@ -1,4 +1,4 @@
-# italian-corpus
+# italian-phoneme-analysis
 
 ## Recording
 Software: Audacity 3.0.0
